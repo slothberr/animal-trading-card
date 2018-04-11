@@ -3,8 +3,7 @@ This is the second project for the Udacity Google Challenge Scholarship for Fron
 
 
 **See the final project here!**
-
-https://slothberr.github.io/animal-trading-cards/
+https://codepen.io/slothberr/pen/mxgeez
 
 ## Project Features
 The CSS should apply these styles to match the design prototype:
